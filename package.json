@@ -1,0 +1,22 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "twitter-app",
+  "main": "liri-app.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaiClark/liri-node-app.git"
+  },
+  "author": "Jairus Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaiClark/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/JaiClark/liri-node-app#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
